@@ -1,0 +1,5 @@
+{
+  "name": "Line Art to Oil Painting",
+  "description": "Transform minimalist line drawings into vibrant oil paintings using Google Gemini AI.",
+  "requestFramePermissions": []
+}
